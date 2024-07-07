@@ -1,5 +1,5 @@
 # Bus-Smart-System---Figma-Prototype
-This project aims to enhance student experience and operational efficiency with planned real-time tracking capabilities. The prototype features intuitive user interfaces and interactive elements designed to help students organize their schedules and navigate campus activities effectively.
+This project aims to enhance UiTM student experience and operational efficiency with planned real-time tracking capabilities. The prototype features intuitive user interfaces and interactive elements designed to help students organize their schedules and navigate campus activities effectively.
 
 ### USER GUIDE:
 - Please use full screen for more user friendly interface. 
